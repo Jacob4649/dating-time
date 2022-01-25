@@ -6,6 +6,8 @@ function updateDate(date) {
     let weeks = weekDiff(d, n) + " WEEKS";
     let days = dayDiff(d, n) + " DAYS";
     
+    writeCookie(date);
+
     document.getElementById("content").innerText = months + "\n" + weeks + "\n" + days;
 }
 
@@ -28,3 +30,25 @@ function dayDiff(start, end) {
     let days = hours / 24;
     return Math.round(days);
 }
+
+function writeCookie(date) {
+    let expires = new Date();
+    expires.setTime(expires.getTime() + 6 * 30 * 24 * 60 * 60 * 1000); // Add 6ish months
+    document.cookie = `date=${date};expires=${expires.toUTCString()};path=/;`;
+}
+
+function loadCookie() {
+    let search = "date=";
+    let x = document.cookie;
+    let cookies = x.split(';');
+
+    for (let cookie in cookies) {
+        if (cookie.includes(search) && cookie.length > search.length) {
+            let date = cookie.substring(search.length);
+            let d = new Date(d);
+            updateDate(d);
+        }
+    }
+}
+
+loadCookie();
