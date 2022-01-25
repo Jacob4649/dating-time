@@ -8,15 +8,19 @@
 </head>
 <body>
     <div id="content">
-        ## DAYS ## WEEKS ## MONTHS
+        ## MONTHS
+        <br>
+        ## WEEKS
+        <br>
+        ## DAYS
     </div>
     <div id="footer" class="flex-container">
         <img src="https://raw.githubusercontent.com/Jacob4649/dating-time/main/Logo.svg" id="logo">
         <div id="controls" class="center-flex-container">
             <div id="date-div">
-                Your Date!
+                YOUR DATE
             </div>
-            <input type="date" id="date-picker">
+            <input type="date" id="date-picker" name="date-picker" onChange="updateDate(this.value);">
         </div>
     </div>
 </body>
