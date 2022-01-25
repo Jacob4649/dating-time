@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "AgencyFB";
-    src: url("https://raw.githubusercontent.com/Jacob4649/dating-time/main/AgencyFB.woff") format("woff");
+    font-family: "Agency FB";
+    src: url("https://raw.githubusercontent.com/Jacob4649/dating-time/main/Agency FB.woff") format("woff");
 }
 html {
     height: 100%;
@@ -21,7 +21,7 @@ body {
 #content {
     padding-top: 5%;
     height: 30%;
-    font-family: "AgencyFB";
+    font-family: "Agency FB";
     font-size: 700%;
     color: white;
     text-align: center;
@@ -31,14 +31,14 @@ body {
     height: 100%
 }
 #date-div {
-    font-family: "AgencyFB";
+    font-family: "Agency FB";
     font-size: xx-large;
     text-align: center;
 }
 #date-picker {
     height: 36pt;
     margin-left: 18pt;
-    font-family: "AgencyFB";
+    font-family: "Agency FB";
     font-size: large;
     border: none;
 }
