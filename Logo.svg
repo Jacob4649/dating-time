@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,7 +48,8 @@
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0" />
   <g
      id="g895"
      transform="matrix(1.0261096,0,0,1.0261096,-2.7415093,-2.7415065)">
@@ -76,4 +77,27 @@
        y="-45.625011"
        transform="rotate(45)" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;line-height:1.25;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, '"
+     x="29.698484"
+     y="182.08"
+     id="text836"><tspan
+       sodipodi:role="line"
+       id="tspan834"
+       x="29.698484"
+       y="182.08" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:46.5679px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';stroke-width:1.1642"
+     x="10.205729"
+     y="102.88403"
+     id="text840"><tspan
+       sodipodi:role="line"
+       id="tspan838"
+       x="10.205729"
+       y="102.88403"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';stroke-width:1.1642">DAT<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.8361px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#ffffff;stroke-width:1.1642"
+   id="tspan842">im</tspan>E</tspan></text>
 </svg>
