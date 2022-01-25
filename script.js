@@ -14,7 +14,6 @@ function monthDiff(start, end) {
     months -= start.getMonth() + 1;
     months += end.getMonth();
     return Math.max(months, 0);
-
 }
 
 function weekDiff(start, end) {
