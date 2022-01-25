@@ -37,14 +37,14 @@ body {
 }
 #date-div {
     font-family: "Agency FB";
-    font-size: 54pt;
+    font-size: 40pt;
     text-align: center;
 }
 #date-picker {
-    height: 54pt;
+    height: 40pt;
     margin-left: 18pt;
     font-family: "Agency FB";
-    font-size: 36pt;
+    font-size: 32pt;
     border: none;
 }
 #controls {
