@@ -9,6 +9,7 @@ function updateDate(date) {
     writeCookie(date);
 
     document.getElementById("content").innerText = months + "\n" + weeks + "\n" + days;
+    document.getElementById("date-picker").value = date;
 }
 
 function monthDiff(start, end) {
