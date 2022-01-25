@@ -1,7 +1,10 @@
 @font-face {
     font-family: "Agency FB";
     src: url("https://raw.githubusercontent.com/Jacob4649/dating-time/main/AgencyFB.eot");
-    src: url("https://raw.githubusercontent.com/Jacob4649/dating-time/main/AgencyFB.woff") format("woff"),
+    src: url("https://raw.githubusercontent.com/Jacob4649/dating-time/main/AgencyFB.eot?#iefix") format("embedded-opentype"),
+    url("https://raw.githubusercontent.com/Jacob4649/dating-time/main/AgencyFB.woff2") format("woff2"),
+    url("https://raw.githubusercontent.com/Jacob4649/dating-time/main/AgencyFB.woff") format("woff"),
+    url("https://raw.githubusercontent.com/Jacob4649/dating-time/main/AgencyFB.ttf")  format("truetype"),
     url("https://raw.githubusercontent.com/Jacob4649/dating-time/main/AgencyFB.svg#filename") format("svg");
 }
 html {
