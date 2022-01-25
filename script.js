@@ -39,14 +39,18 @@ function writeCookie(date) {
 
 function loadCookie() {
     let search = "date=";
-    let x = document.cookie;
+    let x = decodeURIComponent(document.cookie);
     let cookies = x.split(';');
 
-    for (let cookie in cookies) {
+    if (!x.includes(";")) {
+        cookies = [x]
+    }
+
+    for (let i = 0; i < cookies.length; i++) {
+        let cookie = cookies[i]
         if (cookie.includes(search) && cookie.length > search.length) {
             let date = cookie.substring(search.length);
-            let d = new Date(d);
-            updateDate(d);
+            updateDate(date);
         }
     }
 }
