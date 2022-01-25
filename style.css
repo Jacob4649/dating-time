@@ -20,3 +20,22 @@ body {
 #logo {
     height: 100%
 }
+#date-div {
+
+}
+#date-picker {
+    height: 36pt;
+    margin-left: 36pt;
+}
+#controls {
+    height: 100%;
+    width: 100%;
+}
+.flex-container {
+    display: flex;
+}
+.center-flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
