@@ -3,6 +3,7 @@
     src: url("https://raw.githubusercontent.com/Jacob4649/dating-time/main/AgencyFB.woff") format("woff");
 }
 html {
+    height: 100%;
     background-color: pink;
 }
 body {
@@ -18,8 +19,13 @@ body {
     background-color: white;
 }
 #content {
-    height: 70%;
-    padding-bottom:30%;
+    padding-top: 15%;
+    height: 30%;
+    font-family: "AgencyFB";
+    font-size: 700%;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
 }
 #logo {
     height: 100%
