@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "AgencyFB";
+    src: url("https://raw.githubusercontent.com/Jacob4649/dating-time/main/AgencyFB.woff") format("woff");
+}
 html {
     background-color: pink;
 }
@@ -21,11 +25,16 @@ body {
     height: 100%
 }
 #date-div {
-
+    font-family: "AgencyFB";
+    font-size: xx-large;
+    text-align: center;
 }
 #date-picker {
     height: 36pt;
-    margin-left: 36pt;
+    margin-left: 18pt;
+    font-family: "AgencyFB";
+    font-size: large;
+    border: none;
 }
 #controls {
     height: 100%;
