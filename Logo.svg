@@ -87,17 +87,33 @@
        id="tspan834"
        x="29.698484"
        y="182.08" /></text>
-  <text
-     xml:space="preserve"
-     style="font-size:46.5679px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';stroke-width:1.1642"
-     x="10.205729"
-     y="102.88403"
-     id="text840"><tspan
-       sodipodi:role="line"
-       id="tspan838"
-       x="10.205729"
-       y="102.88403"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';stroke-width:1.1642">DAT<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.8361px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#ffffff;stroke-width:1.1642"
-   id="tspan842">im</tspan>E</tspan></text>
+  <g
+     aria-label="DATimE"
+     id="text840"
+     style="font-size:46.5679px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';stroke-width:1.1642">
+    <path
+       d="m 27.714168,96.449113 q 0,2.819541 -1.864535,4.638597 -1.841797,1.79632 -4.661338,1.79632 H 13.048008 V 67.298698 h 8.140287 q 2.842279,0 4.684076,1.819059 1.841797,1.79632 1.841797,4.615861 z M 24.553554,96.130778 V 74.006477 q 0,-1.750844 -1.114174,-2.819541 -1.091435,-1.091435 -2.842279,-1.091435 h -4.388479 v 29.991729 h 4.206573 q 1.841797,0 2.978709,-1.045958 1.15965,-1.068697 1.15965,-2.910494 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';stroke-width:1.1642"
+       id="path839" />
+    <path
+       d="m 47.610122,102.88403 h -3.137877 l -1.250602,-7.912902 h -7.071591 l -1.250603,7.912902 h -3.046923 v -0.0909 l 6.343967,-35.585335 h 3.115138 z M 42.812354,92.174325 39.697216,72.892304 36.55934,92.174325 Z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';stroke-width:1.1642"
+       id="path841" />
+    <path
+       d="M 64.140818,70.095501 H 58.638166 V 102.88403 H 55.477551 V 70.095501 h -5.548129 v -2.796803 h 14.211396 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';stroke-width:1.1642"
+       id="path843" />
+    <path
+       d="m 68.03662,88.501409 h -1.637145 v -2.037336 h 1.637145 z m -0.02425,14.382621 H 66.423729 V 91.08446 h 1.588637 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.8361px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#ffffff;stroke-width:1.1642"
+       id="path845" />
+    <path
+       d="M 82.613278,102.88403 H 81.000386 V 92.527574 l -3.51683,0.09702 v 10.25944 H 75.882792 V 92.527574 l -3.516831,0.09702 v 10.25944 H 70.75307 V 91.08446 h 1.612891 v 0.32743 q 0.945906,-0.12127 1.891812,-0.254668 1.152066,-0.145524 1.90394,-0.145524 0.739747,0 1.09143,0.4487 1.018668,-0.133397 2.025209,-0.278922 1.321843,-0.169778 2.000955,-0.169778 1.333971,0 1.333971,1.321844 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.8361px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#ffffff;stroke-width:1.1642"
+       id="path847" />
+    <path
+       d="M 98.440599,102.88403 H 86.753147 V 67.298698 h 11.551022 v 2.796803 h -8.390408 v 13.279128 h 7.640047 v 2.842279 h -7.640047 v 13.870322 h 8.526838 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';stroke-width:1.1642"
+       id="path849" />
+  </g>
 </svg>
